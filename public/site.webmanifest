@@ -1,0 +1,10 @@
+{
+  "name": "Tifinaghino",
+  "short_name": "ⵜⵉⴼⵉⵏⴰⵖⵉⵏⵓ",
+  "description": "Tifinagh script translator — Arabic & English",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101917",
+  "theme_color": "#101917",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

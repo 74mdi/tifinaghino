@@ -1,0 +1,9 @@
+{
+  "name": "tifinaghino",
+  "version": "1.0.0",
+  "description": "Tifinagh script translator — Arabic & English to ⵜⵉⴼⵉⵏⴰⵖ",
+  "scripts": {
+    "dev": "bun --hot server.js",
+    "start": "bun server.js"
+  }
+}

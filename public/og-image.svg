@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#000"/>
+  <path d="M160 44v542" stroke="#303030" stroke-width="2"/>
+  <g fill="#aaa" font-family="Georgia,serif" font-size="20" font-style="italic">
+    <text x="112" y="73" text-anchor="end">home</text>
+    <text x="112" y="108" text-anchor="end">alphabet</text>
+    <text x="112" y="143" text-anchor="end">history</text>
+    <text x="112" y="178" text-anchor="end">about</text>
+  </g>
+  <g fill="#eee" font-family="Arial,sans-serif">
+    <text x="220" y="125" font-size="52" font-weight="700">Tifinaghino</text>
+    <text x="220" y="192" font-size="38" font-weight="700">English &amp; Arabic</text>
+    <text x="220" y="241" font-size="38" font-weight="700">into Tifinagh.</text>
+  </g>
+  <path d="M924 180v226M824 180h200" fill="none" stroke="#d4d4d4" stroke-linecap="round" stroke-width="13"/>
+  <path d="M220 312h670" stroke="#303030" stroke-width="2"/>
+  <text x="220" y="372" fill="#999" font-family="Arial,sans-serif" font-size="23">A quiet, private transliterator for the Neo-Tifinagh script.</text>
+  <text x="220" y="424" fill="#777" font-family="Arial,sans-serif" font-size="17" letter-spacing="2">LEFT TO RIGHT · LETTER BY LETTER · IN YOUR BROWSER</text>
+  <text x="220" y="552" fill="#d4d4d4" font-family="Arial,sans-serif" font-size="21" font-weight="700">ⵜⵉⴼⵉⵏⴰⵖⵉⵏⵓ</text>
+  <text x="220" y="580" fill="#737373" font-family="Georgia,serif" font-size="15" font-style="italic">Free Tifinagh Translator</text>
+</svg>
