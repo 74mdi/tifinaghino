@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://tifinaghino.com/sitemap.xml
+Sitemap: https://tifinaghino.pages.dev/sitemap.xml
